@@ -1,0 +1,9 @@
+server:
+  port: 1117
+  tomcat:
+    uri-encoding: UTF-8
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/page/
+      suffix: .jsp
