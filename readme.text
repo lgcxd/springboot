@@ -1,0 +1,4 @@
+Swagger2接口api的demo
+首先配置pom.xml相关的接口的jar包
+写一个Swagger2的工具类
+写好相应的业务,然后启动主应用
